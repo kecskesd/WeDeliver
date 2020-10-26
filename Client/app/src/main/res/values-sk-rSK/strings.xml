@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="signup">Registrovať</string>
+  <string name="login">Prihlásiť sa</string>
+  <string name="firstname">Meno</string>
+  <string name="lastname">Priezvisko</string>
+  <string name="password">Heslo</string>
+  <string name="password_confirm">Potvrdiť heslo</string>
+  <string name="email">E-Mail</string>
+  <string name="logo">Logo</string>
+  <string name="title_activity_maps">Mapa</string>
+  <string name="find_people">Zobraziť mapu</string>
+  <string name="order_something">Objednať</string>
+  <string name="add_product">Pridať produkt</string>
+  <string name="street">Ulica:</string>
+  <string name="house_number">Číslo:</string>
+  <string name="city">Mesto:</string>
+  <string name="postal">PSČ:</string>
+  <string name="store">Vybrať obchod</string>
+  <string name="order_confirmation">Potvrdiť objednávku</string>
+  <string name="app_name">WeDeliver</string>
+    <string name="requests">Zobraziť žiadosti</string>
+    <string name="active">Aktívny</string>
+  <string name="accept_order">Schváliť objednávku</string>
+  <string name="address">Adresa</string>
+  <string name="product">Produkt</string>
+  <string name="store2">Obchod</string>
+    <string name="orders">Moje objednávky</string>
+    <string name="generate_pdf">Vygenerovať PDF</string>
+    <string name="my_account">Môj Účet</string>
+    <string name="logout">Odhlásiť sa</string>
+    <string name="create_order">Nová objednávka</string>
+  <string name="my_orders">Moje objednávky</string>
+  <string name="all_requests">Všetky žiadosti</string>
+</resources>
